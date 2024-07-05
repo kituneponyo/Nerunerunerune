@@ -1,1 +1,1 @@
-const nrn=n=>([...Array(n)].map(()=>"ねる")).join('')+'ね';
+const nrnr=n=>([...Array(n)].map(()=>"ねる")).join('')+'ね';
